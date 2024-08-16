@@ -8,8 +8,7 @@ body {
     display: flex;
     justify-content: start;
     align-items: center;
-    background-image: url("fondo.jpg");
-    
+    background-image: url("assets/fondo.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -21,7 +20,7 @@ body {
 }
 
 #proyecto-1 {
-    background-image: url('google.png');
+    background-image: url('assets/google.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -33,16 +32,20 @@ body {
 
 
 #proyecto-2 {
-    background-image: url('ecuacion.png');
+    background-image: url('assets/ecuacion.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
 }
 
 #proyecto-3 {
-    background-image: url('articulo.png');
+    background-image: url('assets/articulo.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
 }
 
+
+
+
+/* PONERLE UN ESTILO AL NOMBRE */
