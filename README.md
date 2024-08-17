@@ -7,8 +7,6 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 
 [Proyecto Desplegado (https://portafoliocamila.vercel.app/)](https://portafoliocamila.vercel.app/)
 
-## Secciones de mi sitio
-![Presentación](inicio.png)
 
 ## Tecnologías
 * HTML

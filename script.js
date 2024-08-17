@@ -29,9 +29,9 @@ let typewriterFrase = new Typewriter(frase, {
 
 typewriterFrase
     .pauseFor(2500)
-    .typeString('... Por lo tanto ')
+    .typeString(' "Deja que el miedo que tienes desaparezca" ')
     .pauseFor(300)
     .deleteAll()
-    .typeString('MM ')
+    .typeString('- Lana del Rey')
     .pauseFor(1000)
     .start();
